@@ -59,7 +59,14 @@ ViewWeatherForAllDays Function:
 
 End
 ![image](https://github.com/Kamogelo2804/WeatherApp-/assets/166174630/686e2ee1-1af7-4d3d-a64b-8f7c94a5aaf4)
+
 this image shows the first screen you see when you open the app
+
+![image](https://github.com/Kamogelo2804/WeatherApp-/assets/166174630/643863f6-79ea-49ea-b8af-90cacf2a84b2)
+
+this image shows the arrays i used to make the app run
+
+
 
 
 
